@@ -5,6 +5,7 @@ public class Class2 {
 		
 		System.out.println("Testing2...");
 		System.out.println("GitHub lecture...");
+		System.out.println("testing2");
 	}
 
 }
